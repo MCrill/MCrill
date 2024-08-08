@@ -14,7 +14,7 @@ Here are some highlights of the projects I've worked on:
 
 I'm always eager to connect with fellow enthusiasts, researchers, and professionals in the field. Feel free to reach out to me via:
 
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/morgan-cockrill-b1b1b223b/))
+[LinkedIn]((https://www.linkedin.com/in/morgan-cockrill-b1b1b223b/))
 
 Thank you for visiting my GitHub profile! I'm looking forward to collaborating and contributing to exciting new projects.
 
