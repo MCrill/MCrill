@@ -8,9 +8,13 @@ My Expertise
 Throughout my studies and various projects, I have developed a strong proficiency in:
 
 Bash Scripting: Efficient and powerful scripting for automating tasks, managing files, and streamlining workflows.
+
 Molecular Dynamics Tools: Experience with tools such as GROMACS and AMBER for simulating the physical movements of atoms and molecules, providing insights into biological processes at the molecular level.
 Projects
-Here are some highlights of the projects I've worked on:
+
+Microbiome Bioinformatics Pipeline Scripting: Dissertation project involved adapting and developing a bioinformatics pipeline to utilise 16S and 18S rRNA Next-Generation Sequencing.
+
+My pinned contains some highlights of the projects I've worked on:
 
 I'm always eager to connect with fellow enthusiasts, researchers, and professionals in the field. Feel free to reach out to me via:
 
