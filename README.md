@@ -24,4 +24,4 @@ I'm always eager to connect with fellow enthusiasts, researchers, and profession
 Thank you for visiting my GitHub profile! I'm looking forward to collaborating and contributing to exciting new projects.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCrill&show_icons=true&theme=vision-friendly-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCrill)](https://github.com/anuraghazra/github-readme-stats)
